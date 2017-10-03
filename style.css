@@ -98,11 +98,11 @@ img {
 
 
 .card__title {
-  color: #221F1F;
+  color: #181616;
   font-size: 1.55rem;
-  font-weight: 600;
+  font-weight: 500;
   padding-top: 12px;
-  letter-spacing: .5px;
+  letter-spacing: .9px;
 }
 
 .card__text {
